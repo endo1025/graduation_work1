@@ -31,6 +31,7 @@
 ・記事投稿
 ・記事一覧
 ・タグづけ
+・いいね機能
 ・マルチ検索
 ・画像加工・合成
 
@@ -46,3 +47,8 @@
 
 ### 画面遷移図
 https://www.figma.com/design/KSvBbw0BKFqFWdxAgqrWKM/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=tKHCGJIRbUjyt0KB-0
+
+### ER図
+https://i.gyazo.com/e1dd5185d6f1156adee23423880bce27.png![image](https://github.com/user-attachments/assets/82392418-2c41-4692-b200-b403c0cc7dc9)
+
+
